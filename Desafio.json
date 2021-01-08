@@ -1,0 +1,41 @@
+{
+  "codigo": 270101,
+  "nome": "SECRETARIA DE ESTADO DE SAÚDE",
+  "nome_reduzido": "SES",
+  "data_Criacao": "30/01/1998",
+  "cnpj": "02.955.271/0001-26",
+  "integracao_compras": "S",
+  "emite_pre_empenho_integrado": 1,
+  "unidadeOrcamentaria": {
+    "codigo": 27101,
+    "nome": "SECRETARIA DE ESTADO DE SAÚDE",
+    "usuario_inclusao_registro": "Carga Inicial",
+    "data_inclusao_registro": "2014-03-27 14:19:17.000"
+  },
+  "contadores": [
+    {
+      "nome": "João",
+      "data_nascimento": "01/01/1990",
+      "endereco": "14 de julho",
+      "numero": "5",
+      "bairro": "centro",
+      "ativo": "true"
+    },
+    {
+      "nome": "Ana",
+      "data_nascimento": "01/01/1980",
+      "endereco": "13 de junho",
+      "numero": "15",
+      "bairro": "centro",
+      "ativo": "true"
+    },
+    {
+      "nome": "Felipe",
+      "data_nascimento": "01/01/1975",
+      "endereco": "Afonso Pena",
+      "numero": "235",
+      "bairro": "centro",
+      "ativo": "false"
+    }
+  ]
+}
